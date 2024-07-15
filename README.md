@@ -1,4 +1,4 @@
-# simple-websockets-chat-app
+# simple-websockets-chat-app lmao
 
 **Update**: _We have released an updated and more feature-rich Websocket chat application sample using AWS CDK that you can find [here](https://github.com/aws-samples/websocket-chat-application)._
 
